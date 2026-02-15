@@ -10,4 +10,4 @@ play(player, kris, 1000)
 play(player, mrugesh, 1000)
 
 # Uncomment to run tests
-# unittest.main()
+unittest.main()
